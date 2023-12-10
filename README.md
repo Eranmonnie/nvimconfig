@@ -12,7 +12,7 @@ Before you start, make sure you have the following prerequisites on your Windows
 
 ### Installation
 
-To get started with "neodots," follow these simple steps:
+To get started, follow these simple steps:
 
 clone this repository
 
@@ -32,32 +32,17 @@ add the config to the file path
 
 > On Windows NeoVim gets its configuration from %userprofile%\AppData\Local\nvim
 
-## Screenshots
-
-Here are some screenshots showcasing the appearance of "neodots" in action:
-
-- Start Page:
-  ![Start Page](screenshots/startpage.jpg)
-
-- Telescope Plugin:
-  ![Telescope Plugin](screenshots/telescope.JPG)
-
-- Zen Mode:
-  ![Zen Mode](screenshots/zenmode.jpg)
-
-- Twilight Theme:
-  ![Twilight Theme](screenshots/twilight.jpg)
 
 ## Customization
 
-Feel free to customize "neodots" to suit your preferences. You can add or remove plugins, modify key mappings, and tweak the settings to make Neovim your own.
+Feel free to customize to suit your preferences. You can add or remove plugins, modify key mappings, and tweak the settings to make Neovim your own.
 
 ## Issues and Contributions
 
-If you encounter any issues or have suggestions for improving "neodots," please open an issue on this repository. I welcome contributions and pull requests from the Neovim community to make this configuration even better.
+If you encounter any issues or have suggestions for improving this config, please open an issue on this repository. I welcome contributions and pull requests from the Neovim community to make this configuration even better.
 
 ## License
 
 This project is licensed under the GNU General Public License v3.0. See the [LICENSE](LICENSE) file for details.
 
-Enjoy using "neodots" and happy coding!
+Enjoy and happy coding!
